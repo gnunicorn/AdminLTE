@@ -9,3 +9,6 @@
 ad.js
 TODO
 test.html
+_site
+.sass-cache
+.jekyll-metadata
